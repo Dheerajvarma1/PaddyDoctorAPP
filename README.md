@@ -131,4 +131,3 @@ AWS EC2
 Paddy Leaf Disease Detection (ResearchGate)
 
 IEEE - Paddy Disease Classification
-
