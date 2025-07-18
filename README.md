@@ -2,7 +2,6 @@ Paddy Disease Image Classification using Jetson Nvidia
 Submitted by
 S. Dheeraj Varma (22bcs125)
 N. Vivek Reddy (22bcs076)
-
 M. Karthikeya (22bcs073)
 
 Under the Guidance of
