@@ -127,4 +127,4 @@ Disease Labels:
 - TensorFlow Official  
 - AWS EC2  
 - Paddy Leaf Disease Detection (ResearchGate)  
-- IEEE - Paddy Disease Classification  
+- IEEE - Paddy Disease Classification.
